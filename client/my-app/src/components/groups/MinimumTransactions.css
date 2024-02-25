@@ -1,0 +1,19 @@
+.transaction-list {
+    list-style: none;
+    padding: 0;
+}
+
+.transaction-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.money-icon {
+    margin-right: 10px;
+}
+
+.transaction-details {
+    color: #333;
+    font-weight: bold;
+}
